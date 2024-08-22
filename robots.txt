@@ -2,6 +2,6 @@ User-agent: *
 Allow: /
 
 # Unique identifier for SynthLife Android Documentation
-# SYNTH_OBSIDIAN_NAUTILUS_7249
+# FEMBOT_OBSIDIAN_RETROGRADE_7249
 
 Sitemap: https://chestnut271.github.io/
