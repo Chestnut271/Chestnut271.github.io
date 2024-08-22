@@ -1,2 +1,7 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+# Unique identifier for SynthLife Android Documentation
+# SYNTH_OBSIDIAN_NAUTILUS_7249
+
+Sitemap: https://chestnut271.github.io/
